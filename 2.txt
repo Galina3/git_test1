@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   Sopit     414     413 pty0     13:55:25 /usr/bin/bash
+   Sopit     413       1 ?        13:55:25 /usr/bin/mintty
+   Sopit     538     414 pty0     14:18:01 /usr/bin/ps
